@@ -1,0 +1,6 @@
+{
+  "name": "ORMVAO - Gestion des Missions & Flotte GPS",
+  "description": "Plateforme intégrée de gestion des missions administratives, ordres de mission A5, bons de sortie et suivi GPS de l'Office Régional de Mise en Valeur Agricole de Ouarzazate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
